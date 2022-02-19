@@ -16,9 +16,9 @@ forwards:
     # me means, the messages will be saved in your Saved Messages in telegram
     offset: 0 # from where to start (0 means from the first message of source)
     # offset will automatically be updated when the program runs
-  # - source: -1001
-  #   dest: []
-  #   offset: 0
+   - source: -1001498678985
+     dest: [5231326048]
+     offset: 0
   # add more sources if you wish
 
 past:
