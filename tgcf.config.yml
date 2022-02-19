@@ -1,6 +1,6 @@
 forwards:
   - source: -1001498678985
-    dest: [-1001788528281]
+    dest: [-1001788528281,5231326048]
     offset: 0
 past:
   delay: 3
